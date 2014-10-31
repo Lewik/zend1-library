@@ -1,0 +1,11 @@
+{
+    "name": "lewik/zend1-library-folder",
+    "description": "Zend1 library folder",
+    "authors": [
+        {
+            "name": "Lev Shagalov",
+            "email": "lllewik@gmail.com"
+        }
+    ],
+    "require": {}
+}
