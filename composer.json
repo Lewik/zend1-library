@@ -8,5 +8,10 @@
             "email": "lllewik@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.12.9"
+        }
+    }
 }
