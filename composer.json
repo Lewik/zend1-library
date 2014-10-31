@@ -9,10 +9,12 @@
             "email": "lllewik@gmail.com"
         }
     ],
-    "require": {},
     "extra": {
         "branch-alias": {
             "dev-master": "1.12.9-dev"
         }
+    },
+    "require": {
+        "composer/installers": "~1.0"
     }
 }
